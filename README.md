@@ -19,6 +19,9 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
 [pokorinta_circuit.pdf](pokorinta_circuit.pdf)
 - Microcontroller board: M5Stamp S3
 
+**X Account:**  
+[Pokorinta Laboratory](https://x.com/tobu_8_kaeru)
+
 ### Development Environment
 - IDE: Arduino IDE
 - Board: M5Stack by M5Stack official v.2.1.3
@@ -46,11 +49,13 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
 [pokorinta_circuit.pdf](pokorinta_circuit.pdf)
 - マイコンボード：M5Stamp S3
 
-### 開発環境
-- IDE：Arduino IDE
-- ボード：M5Stack（M5Stack official v.2.1.3）
-- ライブラリ：
-  - Adafruit BusIO（Adafruit v.1.17.0）
-  - RTClib（Adafruit v.2.1.4）
-  - SdFat（Bill Greiman v.2.3.0）
+**Xアカウント:**  
+[Pokorinta Laboratory](https://x.com/tobu_8_kaeru)
 
+### 開発環境
+- IDE: Arduino IDE
+- Board: M5Stack by M5Stack official v.2.1.3
+- Libraries:
+  - Adafruit BusIO by Adafruit v.1.17.0
+  - RTClib by Adafruit v.2.1.4
+  - SdFat by Bill Greiman v.2.3.0
