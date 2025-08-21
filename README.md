@@ -17,6 +17,7 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
 
 **Circuit diagram:**  
 [pokorinta_circuit.pdf](pokorinta_circuit.pdf)
+- Microcontroller board: M5Stamp S3
 
 ### Development Environment
 - IDE: Arduino IDE
@@ -43,6 +44,7 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
 
 **回路図:**  
 [pokorinta_circuit.pdf](pokorinta_circuit.pdf)
+- マイコンボード：M5Stamp S3
 
 ### 開発環境
 - IDE：Arduino IDE
