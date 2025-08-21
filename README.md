@@ -8,8 +8,9 @@
 This repository contains the program for All-in Cajon "Pokorinta" exhibited at NT Kyoto 2025.
 
 - All-in Cajon "Pokorinta" is a rhythm machine shaped like a cajon. It uses 7 solenoids to rhythmically strike the cajon's surface, tambourine, and maracas inside to produce sounds.
+  - The circuit and program can drive up to 8 solenoids, but only 7 are actually installed in Pokorinta.
 - Pressing the button attached to the main unit starts the performance.
-- Performance data uses MIDI files stored on an SD card.
+- Performance data uses MIDI files stored on an SD card. The data from the drum channel (9) is read, and each drum instrument is mapped to the solenoids of Pokorinta for playback.
 
 **Demo Video:**  
 [Playing 'Senbonzakura' on Pokorinta Cajon @NT Kyoto 2025](https://youtu.be/M3PQvyEZkvs?si=6jQbiOPsckav4VGM)
@@ -33,8 +34,9 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
 本リポジトリは、NT京都2025で展示した All-in Cajon "Pokorinta" のプログラムを格納しています。
 
 - All-in Cajon "Pokorinta" はカホンの見た目をしたリズムマシンです。7個のソレノイドでカホンの打面や内部のタンバリン・マラカスを叩き、リズミカルに音を出します。
+  - なお、基板やプログラムとしては8chのソレノイド出力が可能です。
 - 本体のボタンを押すことで演奏が開始されます。
-- 演奏データはSDカードに保存されたMIDIファイルを使用します。
+- 演奏データはSDカードに保存されたMIDIファイルを使用します。ドラムチャネル(9)のデータを読み込み、ドラムの各楽器をPokorintaのソレノイドにマッピングし、演奏を行います。
 
 **デモ動画:**  
 [自動演奏カホン「Pokorinta」で『千本桜』を叩いてみた！@NT京都2025](https://youtu.be/M3PQvyEZkvs?si=6jQbiOPsckav4VGM)
@@ -51,4 +53,3 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
   - SdFat（Bill Greiman v.2.3.0）
   - RTClib（Adafruit v.2.1.4）
   - SdFat（Bill Greiman v.2.3.0）
-[Hackerio](https://xxxxxx)
