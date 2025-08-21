@@ -8,7 +8,7 @@
 This repository contains the program for All-in Cajon "Pokorinta" exhibited at NT Kyoto 2025.
 
 **All-in Cajon "Pokorinta" is an automatic rhythm machine shaped like a cajon.**  
-Inside the box are instruments such as tambourines and cymbals. Despite its compact body, it can produce a variety of sounds like a drum set. Seven electronically controlled solenoids rhythmically strike these instruments to create pleasant rhythms. Both the instruments and the control system are integrated into a single enclosure, which is why it is called "All-in Cajon."
+Inside the box are instruments such as tambourines and cymbals. Despite its compact body, it can produce a variety of sounds like a drum set. Seven electronically controlled solenoids rhythmically strike these instruments to create pleasant rhythms. Both the instruments and the control system are integrated into a single enclosure, so we decided to call it "All-in Cajon."
 
 **Features:**
 - Pressing the button on the main unit starts the performance.
@@ -39,7 +39,7 @@ Inside the box are instruments such as tambourines and cymbals. Despite its comp
 ### 概要
 本リポジトリは、NT京都2025で展示した All-in Cajon "Pokorinta" のプログラムを格納しています。
 
-**All-in Cajon "Pokorinta" はカホンの見た目をした自動演奏リズムマシンです。** 箱の内部にはタンバリンやシンバルなどの楽器が入っており、コンパクトな筐体でありながら、ドラムセットのような多様な音を奏でることができるのが特徴です。また、それらを電子制御された7個のソレノイドでリズミカルに叩くことによって、心地よいリズムを奏でます。楽器も制御も一つの筐体に集約されているところから、All-in Cajonと名付けました。
+**All-in Cajon "Pokorinta" はカホンの見た目をした自動演奏リズムマシンです。** 箱の内部にはタンバリンやシンバルなどの楽器が入っており、コンパクトな筐体でありながら、ドラムセットのような多様な音を奏でることができるのが特徴です。また、それらを電子制御された7個のソレノイドでリズミカルに叩くことによって、心地よいリズムを奏でます。楽器も制御も一つの筐体に集約されているところから、All-in Cajonと呼ぶことにしました。
 
 **機能:**
 - 本体のボタンを押すことで演奏が開始されます。
