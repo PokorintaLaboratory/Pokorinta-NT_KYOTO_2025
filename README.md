@@ -1,0 +1,54 @@
+# All-in Cajon "Pokorinta"
+
+![Pokorinta](pokorinta.png)
+
+## English
+
+### Overview
+This repository contains the program for All-in Cajon "Pokorinta" exhibited at NT Kyoto 2025.
+
+- All-in Cajon "Pokorinta" is a rhythm machine shaped like a cajon. It uses 7 solenoids to rhythmically strike the cajon's surface, tambourine, and maracas inside to produce sounds.
+- Pressing the button attached to the main unit starts the performance.
+- Performance data uses MIDI files stored on an SD card.
+
+**Demo Video:**  
+[Playing 'Senbonzakura' on Pokorinta Cajon @NT Kyoto 2025](https://youtu.be/M3PQvyEZkvs?si=6jQbiOPsckav4VGM)
+
+**Circuit diagram:**  
+[pokorinta_circuit.pdf](pokorinta_circuit.pdf)
+
+### Development Environment
+- IDE: Arduino IDE
+- Board: M5Stack by M5Stack official v.2.1.3
+- Libraries:
+  - Adafruit BusIO by Adafruit v.1.17.0
+  - RTClib by Adafruit v.2.1.4
+  - SdFat by Bill Greiman v.2.3.0
+
+---
+
+## 日本語
+
+### 概要
+本リポジトリは、NT京都2025で展示した All-in Cajon "Pokorinta" のプログラムを格納しています。
+
+- All-in Cajon "Pokorinta" はカホンの見た目をしたリズムマシンです。7個のソレノイドでカホンの打面や内部のタンバリン・マラカスを叩き、リズミカルに音を出します。
+- 本体のボタンを押すことで演奏が開始されます。
+- 演奏データはSDカードに保存されたMIDIファイルを使用します。
+
+**デモ動画:**  
+[自動演奏カホン「Pokorinta」で『千本桜』を叩いてみた！@NT京都2025](https://youtu.be/M3PQvyEZkvs?si=6jQbiOPsckav4VGM)
+
+**回路図:**  
+[pokorinta_circuit.pdf](pokorinta_circuit.pdf)
+
+### 開発環境
+- IDE：Arduino IDE
+- ボード：M5Stack（M5Stack official v.2.1.3）
+- ライブラリ：
+  - Adafruit BusIO（Adafruit v.1.17.0）
+  - RTClib（Adafruit v.2.1.4）
+  - SdFat（Bill Greiman v.2.3.0）
+  - RTClib（Adafruit v.2.1.4）
+  - SdFat（Bill Greiman v.2.3.0）
+[Hackerio](https://xxxxxx)
