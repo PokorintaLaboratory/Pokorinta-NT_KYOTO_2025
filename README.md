@@ -7,10 +7,12 @@
 ### Overview
 This repository contains the program for All-in Cajon "Pokorinta" exhibited at NT Kyoto 2025.
 
-- **All-in Cajon "Pokorinta" is an automatic rhythm machine shaped like a cajon.** Inside the body are instruments such as tambourines and cymbals, which are rhythmically struck by seven solenoids to create pleasant rhythms.
-  - The circuit and program can drive up to 8 solenoids, but only 7 are actually installed in Pokorinta.
-- Pressing the button attached to the main unit starts the performance.
-- Performance data uses MIDI files stored on an SD card. The data from the drum channel (9) is read, and each drum instrument is mapped to the solenoids of Pokorinta for playback.
+**All-in Cajon "Pokorinta" is an automatic rhythm machine shaped like a cajon.**  
+Inside the box are instruments such as tambourines and cymbals. Despite its compact body, it can produce a variety of sounds like a drum set. Seven electronically controlled solenoids rhythmically strike these instruments to create pleasant rhythms. Both the instruments and the control system are integrated into a single enclosure, which is why it is called "All-in Cajon."
+
+**Features:**
+- Pressing the button on the main unit starts the performance.
+- Performance data uses MIDI files stored on an SD card. The data from drum channel (9) is read, and each drum instrument is mapped to Pokorinta's solenoids for playback.
 
 **Demo Video:**  
 [Playing 'Senbonzakura' on Pokorinta Cajon @NT Kyoto 2025](https://youtu.be/M3PQvyEZkvs?si=6jQbiOPsckav4VGM)
@@ -37,8 +39,9 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
 ### 概要
 本リポジトリは、NT京都2025で展示した All-in Cajon "Pokorinta" のプログラムを格納しています。
 
-- **All-in Cajon "Pokorinta" はカホンの見た目をした自動演奏リズムマシンです。** 筐体の内部にはタンバリンやシンバルなどの楽器が入っており、それらを7個のソレノイドでリズミカルに叩いて心地よいリズムを奏でます。
-  - なお、基板やプログラムとしては8chのソレノイド出力が可能です。
+**All-in Cajon "Pokorinta" はカホンの見た目をした自動演奏リズムマシンです。** 箱の内部にはタンバリンやシンバルなどの楽器が入っており、コンパクトな筐体でありながら、ドラムセットのような多様な音を奏でることができるのが特徴です。また、それらを電子制御された7個のソレノイドでリズミカルに叩くことによって、心地よいリズムを奏でます。楽器も制御も一つの筐体に集約されているところから、All-in Cajonと名付けました。
+
+**機能:**
 - 本体のボタンを押すことで演奏が開始されます。
 - 演奏データはSDカードに保存されたMIDIファイルを使用します。ドラムチャネル(9)のデータを読み込み、ドラムの各楽器をPokorintaのソレノイドにマッピングし、演奏を行います。
 
