@@ -53,5 +53,4 @@ This repository contains the program for All-in Cajon "Pokorinta" exhibited at N
   - Adafruit BusIO（Adafruit v.1.17.0）
   - RTClib（Adafruit v.2.1.4）
   - SdFat（Bill Greiman v.2.3.0）
-  - RTClib（Adafruit v.2.1.4）
-  - SdFat（Bill Greiman v.2.3.0）
+
